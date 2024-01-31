@@ -1,0 +1,33 @@
+.boxes {
+    display:flex;
+    background-color:rgb(219, 152, 18);
+    flex-direction: column;
+    text-align: center;
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-width: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+    
+}
+.boy1 {
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 20px;
+    font-style: italic;
+
+}
+.boy2 {
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.boy3 {
+    background-color: brown;
+    padding: 20px;
+    border-radius: 20px;
+
+}

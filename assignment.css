@@ -1,0 +1,51 @@
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    text-align: center;
+    text-decoration: line-through;
+    
+}
+.container {
+    color: rgb(96, 234, 234);
+    padding: 2px;
+    height: 20px;
+    border-radius: 15px;
+}
+.container darker {
+    color: #423d3d;
+    padding: 20px;
+    height: 20px;
+}
+.container2 {
+    color:rgb(96, 234, 234);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 20px
+    ;
+    
+}
+.container3 {
+    color: #423d3d;
+    padding: 2px;
+    height: 20px;
+}
+.container4 {
+    color: rgb(96, 234, 234);;
+    padding: 2px;
+    height: 20px;
+}
+.container5 {
+    background-color: #423d3d;
+    border-radius: 40px;
+    padding: 2px;
+    height: 20px;
+}
+.container6 {ca
+    color: rgb(96, 234, 234);;
+    padding: 2px;
+    height: 20px;
+}
+.container7 {
+    color: #423d3d;
+    padding: 2px;
+    height: 100px;
+}
