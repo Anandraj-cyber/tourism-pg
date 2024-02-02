@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dom</title>
+    <link rel="stylesheet" href="tailwind.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <h1 id="id1">Touch me</h1>
+    <button type="button" onclick="document.getElementById('id1').style.color ='red'">click</button>
+    <p id="hai1"> just click me to check Date.</p>
+    <button  onclick="displayDate() ">The time is</button>
+    
+    <script>
+        function displayDate() {
+            document.getElementById("hai1").innerHTML= Date();
+        }
+        
+    </script>
+</body>
+</html>
